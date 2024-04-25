@@ -1,8 +1,6 @@
 # terraform.yaml
 name: 'Terraform'
 
-on:
-
 env:
   AWS_REGION: ap-southeast-1   
 
